@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="C-_2_Servers_apache-tomcat-7.0.50"/>
+  <fixed facet="jst.web"/>
+  <fixed facet="jst.java"/>
+  <installed facet="jst.java" version="1.7"/>
+  <installed facet="jst.web" version="3.0"/>
+</faceted-project>
